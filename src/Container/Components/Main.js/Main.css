@@ -1,0 +1,7 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: space-around;
+    height: 600px;
+}
